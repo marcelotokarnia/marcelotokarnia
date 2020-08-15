@@ -13,12 +13,11 @@ But I did survive, so I can still code a bit more before finding my next life th
 ### 📺 Latest Adventures on YouTube
 
 <!-- YOUTUBE:START -->
-- [Escaleras de El Chorro - Spain](https://youtu.be/y4JLVnsr-sw)
-- [All the obstacles of the 2019 - Tough Viking 16km - Stockholm Kungliga Djurgården](https://youtu.be/g3cOLuMDaGo)
-- [Kungsleden 3 - Abiskojaure to Abisko and some hanging out](https://youtu.be/C2WJa-lDPPc)
-- [Kungsleden 2 - Kebnekaise Fjällstation to Abiskojaure](https://youtu.be/YiilDnXdeZk)
-- [Kungsleden 1 - Nikkaluokta to Kebnekaise Summit & Tarfalla Glacier](https://youtu.be/4x0KCpIk1fw)
-- [Kungsleden 1 - Nikkaluokta to Kebnekaise Summit & Tarfalla Glacier](https://youtu.be/4x0KCpIk1fw) <!-- DUPLICATED ON PURPOSE TO TEST IF THE CRON REMOVES IT -->
+- [Escaleras de El Chorro - Spain](https://www.youtube.com/watch?v=y4JLVnsr-sw)
+- [All the obstacles of the 2019 - Tough Viking 16km - Stockholm Kungliga Djurgården](https://www.youtube.com/watch?v=g3cOLuMDaGo)
+- [Kungsleden 1 - Nikkaluokta to Kebnekaise Summit & Tarfalla Glacier](https://www.youtube.com/watch?v=4x0KCpIk1fw)
+- [Kungsleden 3 - Abiskojaure to Abisko and some hanging out](https://www.youtube.com/watch?v=C2WJa-lDPPc)
+- [Kungsleden 2 - Kebnekaise Fjällstation to Abiskojaure](https://www.youtube.com/watch?v=YiilDnXdeZk)
 <!-- YOUTUBE:END -->
 
 ### Follow me on social media if you will
