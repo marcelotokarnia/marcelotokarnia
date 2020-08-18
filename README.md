@@ -21,7 +21,7 @@ Check what I've been up to:
 ### 📬 Latest [Blog Posts](https://marcelo.tokks.tech)
 
 <!-- BLOG:START -->
-- [From Create React App to Next - The first try](https://marcelo.tokks.tech/blog/cra-to-next-p2)
+- [From Create React App to Next - The solution](https://marcelo.tokks.tech/blog/cra-to-next-p2)
 - [From Create React App to Next - The problem](https://marcelo.tokks.tech/blog/cra-to-next-p1)
 - [How Puppeteer made me a faster runner ?](https://marcelo.tokks.tech/blog/how-puppeteer-fast-runner)
 - [Dynamic OG Meta tags with Puppeteer - Netlify Serverless Functions](https://marcelo.tokks.tech/blog/dynamic-og-puppeteer-v2)
