@@ -10,6 +10,8 @@ But of course, you can only trust big changes like this with a fair amount of te
 
 Another few comments you can hear from me when talking about Javascript is: `I don't have that problem, Typescript solves it for you`, `I think we can improve the typing here`, `you don't need prop-types if you use Typescript`.
 
+And actually, if you are a beginner/intermediate TS user and want to have a deep dive, I put up this extensive content about my favourite features, its usecases and a list of a few gotchas and how to avoid those. [Check it out.](https://marcelo.tokks.tech/ts)
+
 Check what I've been up to:
 
 📕 [Resumé](https://resume.tokks.tech)
