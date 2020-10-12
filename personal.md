@@ -13,11 +13,11 @@ But I did survive, so I can still code a bit more before finding my next life th
 ### 📺 Latest Adventures on YouTube
 
 <!-- YOUTUBE:START -->
+- [Gamskarkogel - Bad Hofgastein - Austria](https://www.youtube.com/watch?v=qNSJComfh-c)
+- [Fjällmaraton - Åre - Sweden](https://www.youtube.com/watch?v=ZB6DWMa02sE)
+- [Bieberalm, Bad Hofgastein, Austria](https://www.youtube.com/watch?v=E5s4VqNYo-I)
 - [Exploring Lago Tina, Arenzano, Italy](https://www.youtube.com/watch?v=gOU7kCNj0wU)
 - [Kayaking around Kungsholmen, Stockholm, Sweden](https://www.youtube.com/watch?v=wCGwy946yVM)
-- [Escaleras de El Chorro - Spain](https://www.youtube.com/watch?v=y4JLVnsr-sw)
-- [All the obstacles of the 2019 - Tough Viking 16km - Stockholm Kungliga Djurgården](https://www.youtube.com/watch?v=g3cOLuMDaGo)
-- [Kungsleden 1 - Nikkaluokta to Kebnekaise Summit & Tarfalla Glacier](https://www.youtube.com/watch?v=4x0KCpIk1fw)
 <!-- YOUTUBE:END -->
 
 ### Follow me on social media if you will
