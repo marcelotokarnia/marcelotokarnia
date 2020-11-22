@@ -13,11 +13,11 @@ But I did survive, so I can still code a bit more before finding my next life th
 ### 📺 Latest Adventures on YouTube
 
 <!-- YOUTUBE:START -->
+- [Graukogel and Reedsee, Bad Hofgastein, Austria](https://www.youtube.com/watch?v=UgIK_E574-c)
 - [Gamskarkogel - Bad Hofgastein - Austria](https://www.youtube.com/watch?v=qNSJComfh-c)
 - [Fjällmaraton - Åre - Sweden](https://www.youtube.com/watch?v=ZB6DWMa02sE)
 - [Bieberalm, Bad Hofgastein, Austria](https://www.youtube.com/watch?v=E5s4VqNYo-I)
 - [Exploring Lago Tina, Arenzano, Italy](https://www.youtube.com/watch?v=gOU7kCNj0wU)
-- [Kayaking around Kungsholmen, Stockholm, Sweden](https://www.youtube.com/watch?v=wCGwy946yVM)
 <!-- YOUTUBE:END -->
 
 ### Follow me on social media if you will
