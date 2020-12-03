@@ -13,11 +13,11 @@ But I did survive, so I can still code a bit more before finding my next life th
 ### 📺 Latest Adventures on YouTube
 
 <!-- YOUTUBE:START -->
+- [Asa de Hermes - A irmãzinha caçula do Agulhas Negras](https://www.youtube.com/watch?v=CeR7nLcZ674)
 - [Arenzano to Rossiglioni - Family Hike](https://www.youtube.com/watch?v=56wxQDgwA9Q)
 - [Graukogel and Reedsee, Bad Hofgastein, Austria](https://www.youtube.com/watch?v=UgIK_E574-c)
 - [Gamskarkogel - Bad Hofgastein - Austria](https://www.youtube.com/watch?v=qNSJComfh-c)
 - [Fjällmaraton - Åre - Sweden](https://www.youtube.com/watch?v=ZB6DWMa02sE)
-- [Bieberalm, Bad Hofgastein, Austria](https://www.youtube.com/watch?v=E5s4VqNYo-I)
 <!-- YOUTUBE:END -->
 
 ### Follow me on social media if you will
