@@ -13,11 +13,11 @@ But I did survive, so I can still code a bit more before finding my next life th
 ### 📺 Latest Adventures on YouTube
 
 <!-- YOUTUBE:START -->
+- [Abisko, Björkliden and the Polar Night Hikes](https://www.youtube.com/watch?v=dDd1OShEy3o)
 - [Rainy day at Totthummelntopp, Åre, Sweden](https://www.youtube.com/watch?v=CQaRJDi1TiY)
 - [Åreskutan - Summer in the mountains of Åre, Sweden](https://www.youtube.com/watch?v=VaCk993awN8)
 - [Asa de Hermes - A irmãzinha caçula do Agulhas Negras](https://www.youtube.com/watch?v=CeR7nLcZ674)
 - [Arenzano to Rossiglioni - Family Hike](https://www.youtube.com/watch?v=56wxQDgwA9Q)
-- [Graukogel and Reedsee, Bad Hofgastein, Austria](https://www.youtube.com/watch?v=UgIK_E574-c)
 <!-- YOUTUBE:END -->
 
 ### Follow me on social media if you will
