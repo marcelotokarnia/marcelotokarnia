@@ -13,9 +13,9 @@ But I did survive, so I can still code a bit more before finding my next life th
 ### 📺 Latest Adventures on YouTube
 
 <!-- YOUTUBE:START -->
+- [Abisko, Björkliden and the Polar Night Hikes](https://www.youtube.com/watch?v=iU_mGqqdDwE)
 - [All the 15 obstacles of Tough Viking 2020 Covid Edition](https://www.youtube.com/watch?v=fAFZFqowY4o)
 - [Windy Kayaking in Åresjön, Åre, Sweden](https://www.youtube.com/watch?v=uTDiQq7D9zY)
-- [Abisko, Björkliden and the Polar Night Hikes](https://www.youtube.com/watch?v=dDd1OShEy3o)
 - [Rainy day at Totthummelntopp, Åre, Sweden](https://www.youtube.com/watch?v=CQaRJDi1TiY)
 - [Åreskutan - Summer in the mountains of Åre, Sweden](https://www.youtube.com/watch?v=VaCk993awN8)
 <!-- YOUTUBE:END -->
