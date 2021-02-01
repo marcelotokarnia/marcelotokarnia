@@ -13,11 +13,11 @@ But I did survive, so I can still code a bit more before finding my next life th
 ### 📺 Latest Adventures on YouTube
 
 <!-- YOUTUBE:START -->
+- [Blå Lagunen - Um rolêzinho de bike no verão em Estocolmo](https://www.youtube.com/watch?v=52Ee3Z-1AXE)
 - [Granizo no Pico dos Marins 😮](https://www.youtube.com/watch?v=3Kz_V8XWo0k)
 - [Cachoeira da Costa da Lagoa - Florianópolis](https://www.youtube.com/watch?v=shjOecDtkAM)
 - [My snowy birthday on a zipline](https://www.youtube.com/watch?v=hchZUroifz4)
 - [One mountain and two HUGE waterfalls, that sums up a great week](https://www.youtube.com/watch?v=KdLxy1qNiYc)
-- [Mörvikshummelnrunt - Tuesday dose of mountains](https://www.youtube.com/watch?v=VsxLycwIgXE)
 <!-- YOUTUBE:END -->
 
 ### Follow me on social media if you will
