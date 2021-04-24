@@ -23,7 +23,7 @@ Check what I've been up to:
 ### 📬 Latest [Blog Posts](https://marcelo.tokks.tech)
 
 <!-- BLOG:START -->
-- [Top 7 extensões do VSCode que todo Fullstack deveria saber](https://marcelo.tokks.tech/blog/best-vscode-extensions)
+- [Top 7 extensões do VSCode que todo Fullstack deveria saber](https://marcelo.tokks.tech/blog/melhores-extensoes-vscode)
 - [My first Postgis project gave me headaches for 2 years 🤦🏻‍♂️ but I learned a lot 🤷🏻‍♀️](https://marcelo.tokks.tech/blog/postgis-from-aws-to-heroku)
 - [From Create React App to Next - The solution](https://marcelo.tokks.tech/blog/cra-to-next-p2)
 - [From Create React App to Next - The problem](https://marcelo.tokks.tech/blog/cra-to-next-p1)
