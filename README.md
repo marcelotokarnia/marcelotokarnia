@@ -23,11 +23,11 @@ Check what I've been up to:
 ### 📬 Latest [Blog Posts](https://marcelo.tokks.tech)
 
 <!-- BLOG:START -->
+- [Como melhorar a sua experiência de Customer Support com correlation ids](https://marcelo.tokks.tech/coding-blog/correlation-ids-pt)
 - [Top 8 extensões do VSCode que todo Fullstack deveria conhecer](https://marcelo.tokks.tech/coding-blog/melhores-extensoes-vscode)
 - [My first Postgis project gave me headaches for 2 years 🤦🏻‍♂️ but I learned a lot 🤷🏻‍♀️](https://marcelo.tokks.tech/coding-blog/postgis-from-aws-to-heroku)
 - [From Create React App to Next - The solution](https://marcelo.tokks.tech/coding-blog/cra-to-next-p2)
 - [From Create React App to Next - The problem](https://marcelo.tokks.tech/coding-blog/cra-to-next-p1)
-- [How Puppeteer made me a faster runner ?](https://marcelo.tokks.tech/coding-blog/how-puppeteer-fast-runner)
 <!-- BLOG:END -->
 
 👆🏻 Automated cron fetching through github actions, sweeeet 🍩
