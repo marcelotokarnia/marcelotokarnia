@@ -10,24 +10,24 @@ But of course, you can only trust big changes like this with a fair amount of te
 
 Another few comments you can hear from me when talking about Javascript is: `I don't have that problem, Typescript solves it for you`, `I think we can improve the typing here`, `you don't need prop-types if you use Typescript`.
 
-And actually, if you are a beginner/intermediate TS user and want to have a deep dive, I put up this extensive content about my favourite features, its usecases and a list of a few gotchas and how to avoid those. [Check it out.](https://marcelo.tokks.tech/ts)
+And actually, if you are a beginner/intermediate TS user and want to have a deep dive, I put up this extensive content about my favourite features, its usecases and a list of a few gotchas and how to avoid those. [Check it out.](https://marcelo.tokarnia.tech/ts)
 
 Check what I've been up to:
 
-📕 [Resumé](https://resume.tokks.tech)
+📕 [Resumé](https://resume.tokarnia.tech)
 
-👨🏻‍💻 [Projects](https://projects.tokks.tech)
+👨🏻‍💻 [Projects](https://projects.tokarnia.tech)
 
 🤵🏻 [Linkedin](https://www.linkedin.com/in/marcelo-tokarnia-5a1ab2128/)
 
-### 📬 Latest [Blog Posts](https://marcelo.tokks.tech)
+### 📬 Latest [Blog Posts](https://marcelo.tokarnia.tech)
 
 <!-- BLOG:START -->
-- [Como melhorar a sua experiência de Customer Support com correlation ids](https://marcelo.tokks.tech/coding-blog/correlation-ids-pt)
-- [Top 8 extensões do VSCode que todo Fullstack deveria conhecer](https://marcelo.tokks.tech/coding-blog/melhores-extensoes-vscode)
-- [My first Postgis project gave me headaches for 2 years 🤦🏻‍♂️ but I learned a lot 🤷🏻‍♀️](https://marcelo.tokks.tech/coding-blog/postgis-from-aws-to-heroku)
-- [From Create React App to Next - The solution](https://marcelo.tokks.tech/coding-blog/cra-to-next-p2)
-- [From Create React App to Next - The problem](https://marcelo.tokks.tech/coding-blog/cra-to-next-p1)
+- [Como melhorar a sua experiência de Customer Support com correlation ids](https://marcelo.tokarnia.tech/coding-blog/correlation-ids-pt)
+- [Top 8 extensões do VSCode que todo Fullstack deveria conhecer](https://marcelo.tokarnia.tech/coding-blog/melhores-extensoes-vscode)
+- [My first Postgis project gave me headaches for 2 years 🤦🏻‍♂️ but I learned a lot 🤷🏻‍♀️](https://marcelo.tokarnia.tech/coding-blog/postgis-from-aws-to-heroku)
+- [From Create React App to Next - The solution](https://marcelo.tokarnia.tech/coding-blog/cra-to-next-p2)
+- [From Create React App to Next - The problem](https://marcelo.tokarnia.tech/coding-blog/cra-to-next-p1)
 <!-- BLOG:END -->
 
 👆🏻 Automated cron fetching through github actions, sweeeet 🍩
