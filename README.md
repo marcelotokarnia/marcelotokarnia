@@ -16,7 +16,7 @@ Check what I've been up to:
 
 📕 [Resumé](https://resume.tokarnia.tech)
 
-👨🏻‍💻 [Projects](https://projects.tokarnia.tech)
+👨🏻‍💻 [Projects](https://marcelo.tokks.tech/portfolio)
 
 🤵🏻 [Linkedin](https://www.linkedin.com/in/marcelo-tokarnia-5a1ab2128/)
 
